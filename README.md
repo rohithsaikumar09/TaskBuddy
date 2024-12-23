@@ -42,3 +42,8 @@
 - **Code Editor:** Visual Studio Code (or your preferred editor)
 - **Browser:** Google Chrome (or any modern browser)
 - **Node.js & npm:** To manage dependencies and run the React application
+
+- ui
+
+- ![image](https://github.com/user-attachments/assets/963cf562-343f-4099-968a-10a10cd585b4)
+
