@@ -1,8 +1,12 @@
-
+import TaskForm from "./components/TaskForm";
+import './Style.css'
 
 function App() {
   return (
-   <h1>Hello fro js</h1>
+ <div className="App">
+  <h1>TaskBuddy</h1>
+  <TaskForm />
+ </div>
   );
 }
 
